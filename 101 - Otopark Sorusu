@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* 0-4 saat:10TL  5-8 saat:12TL  9-12 saat:15TL  13++ saat:20TL
-klavyeden otoparkta kaç saat kaldığı girilen aracın ödemesi gereken tutarı hesaplayan program */
+klavyeden otoparkta kaÃ§ saat kaldÃ½Ã°Ã½ girilen aracÃ½n Ã¶demesi gereken tutarÃ½ hesaplayan program */
 
 int main() {
 	
