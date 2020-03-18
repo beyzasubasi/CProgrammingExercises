@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-// int dizi[x][y]  ----->  x satır - y sütun sayısıdır
+// int dizi[x][y]  ----->  x satÃ½r - y sÃ¼tun sayÃ½sÃ½dÃ½r
 
 int main( ) {
 	
-	int dizi[2][2];  // 2 satır ve 2 sütundan oluşan dizi oluştur dedik
+	int dizi[2][2];  // 2 satÃ½r ve 2 sÃ¼tundan oluÃ¾an dizi oluÃ¾tur dedik
 	
 	dizi[0][0]=10;
 	dizi[0][1]=20;
