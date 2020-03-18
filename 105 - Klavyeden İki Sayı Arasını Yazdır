@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* klavyeden girilen birbirlerinden farklı 2 sayı arasındaki(bu 2 sayı da dahil) tamsayıların toplamını ekrana yazdır*/
+/* klavyeden girilen birbirlerinden farklÄ± 2 sayÄ± arasÄ±ndaki(bu 2 sayÄ± da dahil) tamsayÄ±larÄ±n toplamÄ±nÄ± ekrana yazdÄ±r*/
 
 int main() {
 	
