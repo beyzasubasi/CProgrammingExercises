@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* strncpy= yukarıdakinin yanında bir de kopyalanacak ifadenin uzunlugu tutulur */
+/* strncpy= yukarÄ±dakinin yanÄ±nda bir de kopyalanacak ifadenin uzunlugu tutulur */
 
 int main() {
 	
