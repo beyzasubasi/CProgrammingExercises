@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// klavyeden alınan boy degerine göre dik üçgen oluşturma //
+// klavyeden alÃ½nan boy degerine gÃ¶re dik Ã¼Ã§gen oluÃ¾turma //
 
 int main() {
 	
