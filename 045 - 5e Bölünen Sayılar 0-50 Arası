@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-//0 ile 50 arasında 5e tam bölünen sayıları listeleyen program//
+//0 ile 50 arasÃ½nda 5e tam bÃ¶lÃ¼nen sayÃ½larÃ½ listeleyen program//
 int main() {
 	
 	int i;
@@ -13,7 +13,7 @@ int main() {
 	}
 	
 	
-	// 0dan başlayacağını belirtmedim ama nasıl 0dan başlıyor? //
+	// 0dan baÃ¾layacaÃ°Ã½nÃ½ belirtmedim ama nasÃ½l 0dan baÃ¾lÃ½yor? //
 	
 	// int i;
 	// for(i=1;i<50;i++)
