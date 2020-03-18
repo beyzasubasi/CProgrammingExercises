@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* klavyeden 0 girilene kadar girilen sayıları toplayan program */
+/* klavyeden 0 girilene kadar girilen sayÃ½larÃ½ toplayan program */
 
 int main() {
 	
