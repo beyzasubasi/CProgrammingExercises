@@ -1,12 +1,12 @@
-#include <stdio.h>   // bunlar processor komutlarıdır //
+#include <stdio.h>   // bunlar processor komutlarÄ±dÄ±r //
 #include <stdlib.h>
 #define puan 2.19
 #define puan2 3.47
 
 
-/*  processor : program derlenmeden önce (main kısmından önce) kendi ilgili komutlarını okur sonra işlemleri yapar
-                 # (diyez) sembolu varsa önişlemci komududur 
-	define : bütün program içinde geçerli olabilecek tanımlama yapmamıza olanak sağlar */
+/*  processor : program derlenmeden Ã¶nce (main kÄ±smÄ±ndan Ã¶nce) kendi ilgili komutlarÄ±nÄ± okur sonra iÅŸlemleri yapar
+                 # (diyez) sembolu varsa Ã¶niÅŸlemci komududur 
+	define : bÃ¼tÃ¼n program iÃ§inde geÃ§erli olabilecek tanÄ±mlama yapmamÄ±za olanak saÄŸlar */
 
 int main() {
 	
