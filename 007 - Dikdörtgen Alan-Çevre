@@ -5,10 +5,10 @@
 
 int main() 
 
-//dikdörtgen alan ve çevresi
-//değer: kısa kenar, uzun kenar
-//alan: kısakenar*uzunkenar
-//çevre: kısakenar+kısakenar+uzunkenar+uzunkenar
+//dikdÃ¶rtgen alan ve Ã§evresi
+//deÄŸer: kÄ±sa kenar, uzun kenar
+//alan: kÄ±sakenar*uzunkenar
+//Ã§evre: kÄ±sakenar+kÄ±sakenar+uzunkenar+uzunkenar
 
 
 
