@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* yazilim evinde kış mevsiminden 320 kişi kalmıştır, ilkbaharda kış mevsiminin 4te 1i, yaz mevsiminde ilkbaharın 8katı ve sonbaharda yaz mevsiminin 10da 1i kadar kişi aldığına göre
- bu otelde 1yıl içinde toplam kaç kişikalmıştr?*/
+/* yazilim evinde kÄ±ÅŸ mevsiminden 320 kiÅŸi kalmÄ±ÅŸtÄ±r, ilkbaharda kÄ±ÅŸ mevsiminin 4te 1i, yaz mevsiminde ilkbaharÄ±n 8katÄ± ve sonbaharda yaz mevsiminin 10da 1i kadar kiÅŸi aldÄ±ÄŸÄ±na gÃ¶re
+ bu otelde 1yÄ±l iÃ§inde toplam kaÃ§ kiÅŸikalmÄ±ÅŸtr?*/
 
 int main() {
 	
