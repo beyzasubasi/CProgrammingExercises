@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-// istediğin yerden baslayan istediğin kadar artan ve istediğin yerde bitip onları toplayan kod//
+// istediÄŸin yerden baslayan istediÄŸin kadar artan ve istediÄŸin yerde bitip onlarÄ± toplayan kod//
 int main() {
 	
 	
