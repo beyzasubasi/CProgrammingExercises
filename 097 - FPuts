@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* fputs(file gets): verilerin topluca yazdırılması
+/* fputs(file gets): verilerin topluca yazdÄ±rÄ±lmasÄ±
 
-  fputsın sytnxı 2parametre 
-1.parametre değişkenin ismi
-2.parametre nereye yazdırılacağı          */
+  fputsÄ±n sytnxÄ± 2parametre 
+1.parametre deÄŸiÅŸkenin ismi
+2.parametre nereye yazdÄ±rÄ±lacaÄŸÄ±          */
 
 int main() {
 	
