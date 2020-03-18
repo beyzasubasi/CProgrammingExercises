@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//  her yolcunun    el için 8 kg                       el hakkını geçerse kg başına 4 TL                       klavyeden el ve bagaj kg agırlıgını giren yolcunun ödemesi gereken bagaj ücreti?
-//                  bagaj için 15kg  hakkı vardır      normal hakkını gecerse kg başına 5 TL ödeme yapılır  
+//  her yolcunun    el iÃ§in 8 kg                       el hakkÄ±nÄ± geÃ§erse kg baÅŸÄ±na 4 TL                       klavyeden el ve bagaj kg agÄ±rlÄ±gÄ±nÄ± giren yolcunun Ã¶demesi gereken bagaj Ã¼creti?
+//                  bagaj iÃ§in 15kg  hakkÄ± vardÄ±r      normal hakkÄ±nÄ± gecerse kg baÅŸÄ±na 5 TL Ã¶deme yapÄ±lÄ±r  
 
 int main() {
 	
