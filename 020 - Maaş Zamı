@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/* aylık 2500tlmaaş alan kişinin maaşına yüzde 12 zamn yapılırs, yeni maaşı?*/
+/* aylÃ½k 2500tlmaaÃ¾ alan kiÃ¾inin maaÃ¾Ã½na yÃ¼zde 12 zamn yapÃ½lÃ½rs, yeni maaÃ¾Ã½?*/
 
 
 int main() {
