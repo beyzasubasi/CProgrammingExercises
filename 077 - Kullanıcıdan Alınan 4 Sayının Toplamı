@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* kullanıcıdan alınan 4tamsayının toplamı */
+/* kullanÃ½cÃ½dan alÃ½nan 4tamsayÃ½nÃ½n toplamÃ½ */
 
 int main() {
 	
