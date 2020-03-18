@@ -12,7 +12,7 @@
   	int s;
   	printf("Sayiyi Girin: ");
   	scanf("%d",&s);
-  	printf("\n\nSonuc: %d",kupbul(s));      // kupbul fonk içine s belirlediğimiz değişkeni koyarız
+  	printf("\n\nSonuc: %d",kupbul(s));      // kupbul fonk iÃ§ine s belirlediÃ°imiz deÃ°iÃ¾keni koyarÃ½z
   	
 	
 	
