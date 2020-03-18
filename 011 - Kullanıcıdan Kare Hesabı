@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/*klavyeden girilen karenin kenarıyla çevresini ve alanını hesaplama*/
+/*klavyeden girilen karenin kenarÄ±yla Ã§evresini ve alanÄ±nÄ± hesaplama*/
 
 
 int main() {
