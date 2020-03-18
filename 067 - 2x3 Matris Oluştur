@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//  2sat˝r(i) 3sutundan(j) olu˛ur 
-// 9> k¸mede SATIRLAR s˝ras˝yla yaz˝l˝r, 10 20 30 ilk sat˝r - 40 50 60 ikinci sat˝r olarak verilir
+//  2sat√Ωr(i) 3sutundan(j) olu√æur 
+// 9> k√ºmede SATIRLAR s√Ωras√Ωyla yaz√Ωl√Ωr, 10 20 30 ilk sat√Ωr - 40 50 60 ikinci sat√Ωr olarak verilir
 
 int main() {
 	
