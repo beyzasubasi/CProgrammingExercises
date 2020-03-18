@@ -5,10 +5,10 @@
 
 int main() {
 	
-	//Karenin alan ve çevresi
-	//Değer: Bir kenar
+	//Karenin alan ve Ã§evresi
+	//DeÄŸer: Bir kenar
 	//Alan: Kenar * Kenar
-	//Çevre: kenar *4
+	//Ã‡evre: kenar *4
 	
 	int kenar,alan,cevre;
 	kenar=10;
