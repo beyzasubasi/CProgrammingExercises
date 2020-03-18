@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* enum = 81ilin plakasını kullanırken switch case çok uzun sürer enum bu gibi soruların daha pratik yapılamsını sağlar
-        genelde main in üstünde tanımlanır
+/* enum = 81ilin plakasÄ±nÄ± kullanÄ±rken switch case Ã§ok uzun sÃ¼rer enum bu gibi sorularÄ±n daha pratik yapÄ±lamsÄ±nÄ± saÄŸlar
+        genelde main in Ã¼stÃ¼nde tanÄ±mlanÄ±r
                                                 */
 
     enum sehirler
@@ -15,7 +15,7 @@
     	
     	enum sehirler il;
     	il=aydin;
-    	printf("%d",il);            // dizilerde index değeri saymaya 0dan başladığı için başına bi 0.sehir yazarsak istediğimiz cevabı alırız
+    	printf("%d",il);            // dizilerde index deÄŸeri saymaya 0dan baÅŸladÄ±ÄŸÄ± iÃ§in baÅŸÄ±na bi 0.sehir yazarsak istediÄŸimiz cevabÄ± alÄ±rÄ±z
 	    
 	
 	
