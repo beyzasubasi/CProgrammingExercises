@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* typedef toplama işlemi */
+/* typedef toplama iÃ¾lemi */
 
    typedef int d1;
 
@@ -9,8 +9,8 @@
    int main() {
 	
 	int toplam;
-	d1 d2;       // deger1den deger2 isminde bir değişken türetelim
-	d1 d3;       // deger1den deger3 isminde bir değişken türetelim
+	d1 d2;       // deger1den deger2 isminde bir deÃ°iÃ¾ken tÃ¼retelim
+	d1 d3;       // deger1den deger3 isminde bir deÃ°iÃ¾ken tÃ¼retelim
 	
 	d2=20;
 	d3=40;
