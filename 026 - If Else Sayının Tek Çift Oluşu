@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-//sayinin tek mi çift mi olduğunu buluyoruz-2ye göre modunu alıyoruz//
+//sayinin tek mi Ã§ift mi olduÃ°unu buluyoruz-2ye gÃ¶re modunu alÃ½yoruz//
 
 int main() {
 	
