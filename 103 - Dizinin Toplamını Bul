@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* 1+5+9+13+...+81 dizisinin toplamýný bulan program */
+/* 1+5+9+13+...+81 dizisinin toplamÃ½nÃ½ bulan program */
 
 int main() {
 	
