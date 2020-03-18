@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/*int olduğu için tam kısmını aldı ondalikla ilgilenmedi*/
+/*int olduÃ°u iÃ§in tam kÃ½smÃ½nÃ½ aldÃ½ ondalikla ilgilenmedi*/
 
 int main() {
 	
