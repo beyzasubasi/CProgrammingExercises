@@ -3,9 +3,9 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-/*ygs 1 puan türü hesaplama*/
+/*ygs 1 puan tÃ¼rÃ¼ hesaplama*/
 
-/*türkçe: 1.999
+/*tÃ¼rkÃ§e: 1.999
 /matematik: 3.998
 /*sosyal:1
 /*fen:2.999
@@ -32,7 +32,7 @@ int main() {
 	
 	printf("YGS1 turunde sonucunuz: %f",toplampuan);
 	
-	//neden çıktı alırken ilkini yazdırınca duruyor? arada başka bir ifade girince diğerleri çıkıyo?//
+	//neden Ã§Ã½ktÃ½ alÃ½rken ilkini yazdÃ½rÃ½nca duruyor? arada baÃ¾ka bir ifade girince diÃ°erleri Ã§Ã½kÃ½yo?//
 	//hepsine 40 gir dene//
 	return 0;
 }
