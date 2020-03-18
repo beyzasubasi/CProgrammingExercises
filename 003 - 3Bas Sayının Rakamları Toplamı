@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* klavyeden girilen 3 basamaklı bir sayının rakamları toplamını bulan program */
+/* klavyeden girilen 3 basamaklÄ± bir sayÄ±nÄ±n rakamlarÄ± toplamÄ±nÄ± bulan program */
 
 int main() {
 	
