@@ -21,8 +21,8 @@ int main() {
 	printf("cemberin cevresi: %f \n",cevre);
 	 
 	
-	// float fonksiyonunda klavyeden girdi de tam sayı kullanamaz mıyız? //
-	//ondalıklı sayılar virgül ile ayrılıyor, noktayı kabul etmiyor?//
+	// float fonksiyonunda klavyeden girdi de tam sayÄ± kullanamaz mÄ±yÄ±z? //
+	//ondalÄ±klÄ± sayÄ±lar virgÃ¼l ile ayrÄ±lÄ±yor, noktayÄ± kabul etmiyor?//
 	
 	return 0;
 }
