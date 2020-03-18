@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-// 1 ile 10 arasındaki sayıları while döngüsü ile listeleyen kod//
+// 1 ile 10 arasÃ½ndaki sayÃ½larÃ½ while dÃ¶ngÃ¼sÃ¼ ile listeleyen kod//
 
 int main() {
 	
@@ -14,7 +14,7 @@ int main() {
 	}
 	
 	
-	// %d den sonraki boşluğu silince neden hata veriyor? //
+	// %d den sonraki boÃ¾luÃ°u silince neden hata veriyor? //
 	
 	return 0;
 }
