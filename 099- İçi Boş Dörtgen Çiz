@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* bir dikdörtgen çizdirin ama içi boş olsun    */
+/* bir dikdÃ¶rtgen Ã§izdirin ama iÃ§i boÃ¾ olsun    */
 
 int main() {
 	return 0;
