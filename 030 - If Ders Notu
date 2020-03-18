@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-//3sýnav ve 1 proje notu girilen öðrenci: ort<50  FF
+//3sÃ½nav ve 1 proje notu girilen Ã¶Ã°renci: ort<50  FF
 //                                        ort 50/60 DD
 //                                        ort 60/70 CC
 //                                        ort 70/85 AA   //
