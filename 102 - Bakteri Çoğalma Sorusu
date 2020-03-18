@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* bir bakteri türü her saat başı kendini 2ye bölerek çoğalır, bu labda 24 saat sonra kaç tane bakteri olur? */
+/* bir bakteri tÃ¼rÃ¼ her saat baÅŸÄ± kendini 2ye bÃ¶lerek Ã§oÄŸalÄ±r, bu labda 24 saat sonra kaÃ§ tane bakteri olur? */
 // 2 4 8 16 32 64 128 256 512 1024 
 int main() {
 	
